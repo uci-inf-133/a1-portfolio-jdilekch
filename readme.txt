@@ -39,7 +39,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 3. Did you ignore any of the warnings or errors presented by the accessibility checker? If so, why does this not seem like an accessibility concern? If it's useful, you can consolidate your thoughts on multiple warnings/errors if the rationale is similar.
 
-- My portfolio passed all accessibility tests. At first I had 1 warning and 2 errors in some of the files. I fixed them all so now they're passing. 
+- My portfolio passed all known and likely accessibility issues and the html standards as well. At first, I had 1 warning and 2 known errors in some of the files that are marked by W3C. I fixed them all so now they're passing. However, I have 22 potential problems/warnings in index.html mostly tied to how I handled alt texts. I believe my current alt texts are descriptive and clear. For contact info file I have about 30 potential problems marked and almost half of them were very specific warnings like how external link description is unneccessary or how titles are not matching with the content. For the aboutme.html file, I have 22 potential problems and they were very similar to the previous files' warnings.
 
 4. How long, in hours, did it take you to complete this assignment?
 
